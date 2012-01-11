@@ -1,0 +1,13 @@
+{
+  "name": "mtfontanka",
+  "description": "Сайт Молодёжного театра на фонтанке",
+  "author": "Виталий Ищенко <betalb@gmail.com>",
+  "dependencies": {
+    "jade": "0.19.x",
+    "express": "2.5.x",
+    "stylus": "0.21.x",
+    "mongoose": "2.4.x"
+  },
+  "engines": { "node": ">= 0.6.3 < 0.7.0" },
+  "repository": "git://github.com/betalb/mtfontanka"
+}
